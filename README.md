@@ -9,3 +9,6 @@ The app should keep track of the user's score. The user's score should be increm
 Every time an image is clicked, the images rendered to the page should shuffle themselves in a random order.
 
 Once the user's score is reset after an incorrect guess, the game should restart.
+
+# Technologies used
+REACT - ES6 - CSS - Bootstrap
