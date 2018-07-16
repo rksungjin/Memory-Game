@@ -1,6 +1,6 @@
 //imports dependencies and files
 import React, { Component } from "react";
-import Jumbotron from "./components/Jumbotron";
+// import Jumbotron from "./components/Jumbotron";
 import UserCard from "./components/UserCard";
 import ballers from "./ballers.json";
 

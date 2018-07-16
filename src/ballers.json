@@ -1,7 +1,7 @@
 [
     {
     "id": 1,
-    "image": "billups.jpg"
+    "image": "billups.jpeg"
     },
     {
     "id": 2,
@@ -9,35 +9,35 @@
     },
     {
     "id": 3,
-    "image": "curry.jpg"
+    "image": "curry.jpeg"
     },
     {
     "id": 4,
-    "image": "dirk.jpg"
+    "image": "dirk.jpeg"
     },
     {
     "id": 5,
-    "image": "durant.jpg"
+    "image": "durant.jpeg"
     },
     {
     "id": 6,
-    "image": "garnett.jpg"
+    "image": "garnett.jpeg"
     },
     {
     "id": 7,
-    "image": "iverson.jpg"
+    "image": "iverson.jpeg"
     },
     {
     "id": 8,
-    "image": "kobe.jpg"
+    "image": "kobe.jpeg"
     },
     {
     "id": 9,
-    "image": "lebron.jpg"
+    "image": "lebron.jpeg"
     },
     {
     "id": 10,
-    "image": "magic.jpg"
+    "image": "magic.jpeg"
     },
     {
     "id": 11,
@@ -45,30 +45,30 @@
     },
     {
     "id": 12,
-    "image": "nash.jpg"
+    "image": "nash.jpeg"
     },
     {
     "id": 13,
-    "image": "pierce.jpg"
+    "image": "pierce.jpeg"
     },
     {
     "id": 14,
-    "image": "ray.jpg"
+    "image": "ray.jpeg"
     },
     {
     "id": 15,
-    "image": "rondo.jpg"
+    "image": "rondo.jpeg"
     },
     {
     "id": 16,
-    "image": "rose.jpg"
+    "image": "rose.jpeg"
     },
     {
     "id": 17,
-    "image": "shaq.jpg"
+    "image": "shaq.jpeg"
     },
     {
     "id": 18,
-    "image": "westbrook.jpg"
+    "image": "westbrook.jpeg"
     }
     ]
