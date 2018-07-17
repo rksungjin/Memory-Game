@@ -42,7 +42,7 @@ class App extends Component {
       //if you get all 12 ballers corrent you get a congrats message and the game resets        
               () => {
                 if (this.state.score === 12) {
-                  alert("Yay! You Win!");
+                  alert("You Win!");
                   this.setState({
                     ballers: this.state.ballers.sort(function(a, b) {
                       return 0.5 - Math.random();
