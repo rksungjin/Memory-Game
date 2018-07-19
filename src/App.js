@@ -68,12 +68,12 @@ class App extends Component {
 
   render() {
       const shldRenderWinner = this.winner();
-      const shldRenderLoser = this.loser();
+    //   const shldRenderLoser = this.loser();
 
     return (
       <div>
           {shldRenderWinner}
-          {shldRenderLoser}
+          {/* {shldRenderLoser} */}
         <div className="wrapper">
           {this.state.ballers.map(ballers => (
             <UserCard
